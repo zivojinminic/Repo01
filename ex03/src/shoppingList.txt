@@ -2,6 +2,5 @@ Shopping list:
 - Apples;
 - Oranges;
 - Bananas;
-- Charries;
+- Cherries;
 - Carrots;
-- Strawberries;
